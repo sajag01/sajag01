@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Hi, I'm Sajag Mishra, passionate about technology and always eager to learn and build new things. I'm currently learning web development and improving my skills.</p>
+<p align="left">Hi, I'm Sajag Mishra, I am pursuing B.tech. Currently i am working on frontend n Data structure and algorithms. </p>
 
 ###
 
